@@ -20,6 +20,8 @@ on:
   schedule:
     - cron: $cron-weekly
 
+permissions: {}
+
 jobs:
   bandit:
     permissions:
