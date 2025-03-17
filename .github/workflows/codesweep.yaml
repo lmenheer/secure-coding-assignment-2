@@ -1,5 +1,4 @@
 name: "HCL AppScan CodeSweep"
-name: "HCL AppScan CodeSweep"
 on:
   pull_request:
     types: [opened,synchronize]
